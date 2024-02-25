@@ -1,0 +1,1 @@
+This is simple programme, which allows user to input their username and password. In case of wrong input, it detects obviously. After typing in correctly, you move to next page. In case of returning, just click on exit button and it will return to log in page again.
